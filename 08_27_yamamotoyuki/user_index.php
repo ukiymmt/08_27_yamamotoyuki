@@ -29,7 +29,7 @@
                         <a class="nav-link" href="user_index.php">ユーザー登録</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="user_select.php">ユーザー　一覧</a>
+                        <a class="nav-link" href="user_select.php">ユーザー　一覧　だーーーーーーーー！</a>
                     </li>
                 </ul>
             </div>
